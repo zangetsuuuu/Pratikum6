@@ -218,14 +218,14 @@ while True:
 ![Ubah(1).jpg](https://github.com/zangetsuuuu/Pratikum6/blob/e7a1f99d32a1168920b0fda98ae3b8e5045cc7a0/gambar/Ubah(1).jpg)
 ![Ubah(2).jpg](https://github.com/zangetsuuuu/Pratikum6/blob/e7a1f99d32a1168920b0fda98ae3b8e5045cc7a0/gambar/Ubah(2).jpg)
 
+#### Menu cari
+
+![Cari.jpg](https://github.com/zangetsuuuu/Pratikum6/blob/e7a1f99d32a1168920b0fda98ae3b8e5045cc7a0/gambar/Cari.jpg)
+
 #### Menu hapus
 
 ![Hapus(1).jpg](https://github.com/zangetsuuuu/Pratikum6/blob/e7a1f99d32a1168920b0fda98ae3b8e5045cc7a0/gambar/Hapus(1).jpg)
 ![Hapus(2).jpg](https://github.com/zangetsuuuu/Pratikum6/blob/e7a1f99d32a1168920b0fda98ae3b8e5045cc7a0/gambar/Hapus(2).jpg)
-
-#### Menu cari
-
-![Cari.jpg](https://github.com/zangetsuuuu/Pratikum6/blob/e7a1f99d32a1168920b0fda98ae3b8e5045cc7a0/gambar/Cari.jpg)
 
 #### Menu keluar
 
